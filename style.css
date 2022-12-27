@@ -53,3 +53,14 @@ textarea {
 .tag.highlight {
     background-color: #003049;
 }
+
+@media (max-width: 480px) {
+    .container {
+        width: 300px;
+    }
+
+    h3 {
+        font-size: 1rem;
+    }
+
+}
